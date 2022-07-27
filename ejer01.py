@@ -17,3 +17,7 @@ def ordenar():
     lista.sort()
     print("Mi lista ordenado de menor a mayor es: {}".format(lista))
     lista.reverse()
+
+almacenar()
+ordenar()
+norepetir()
